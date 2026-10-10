@@ -1,0 +1,19 @@
+/* Fallback */
+#adco {
+  display: block;
+  text-align: center;
+  background: #007bff;
+  color: white;
+  width: 100%;
+  height: auto;
+}
+
+/* Main */
+ad {
+  display: block;
+  text-align: center;
+  background: #007bff;
+  color: white;
+  width: 100%;
+  height: auto;
+}
