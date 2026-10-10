@@ -1,3 +1,3 @@
-<script src="https://raw.githubusercontent.com/Leeyamsworld/theadtag/main/index.js"></script>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Leeyamsworld/theadtag/main/style.css" />
+<script src="https://theadtag-lw.pages.dev/index.js"></script>
+<link rel="stylesheet" href="https://theadtag-lw.pages.dev/style.css" />
 <ad id="adco"></ad>
